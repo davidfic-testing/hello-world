@@ -12,7 +12,7 @@ def hello_world():
 
 @app.route("/test")
 def test():
-    return "hello there. test"
+    return "revision 2"
 
 
 if __name__ == "__main__":
